@@ -13,12 +13,8 @@ Selfi Fulfillment is the performance of ordering and installing services that cu
 
 ## Objectives:
   1. Data Preparation & Cleaning
-       - Create a program that can be run to perform data preparation & cleaning
-       - Can perform data preparation and cleaning more easily and quickly
-       - Create new datasets as needed
-       - Produce data that is ready to be visualized
+       - Create a program that can be run to make data preparation & cleaning easier and faster,
+       - Create new datasets as needed.
   2. Data Visualization, Insight, and Recommendation
-       - Provide data visualization that is easy for the audience to understand
-       - Makes it easy to get insight through the visualizations created
-       - Assist in decision making
-       - Presents data that is in accordance with what is processed
+       - Provide data visualization that is easy for the audience to understand,
+       - Make it easy to get insight through visualizations made to help when making decisions.
